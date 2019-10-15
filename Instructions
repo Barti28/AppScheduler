@@ -1,1 +1,11 @@
+The language I  have made this algorithm is C# and editor Visual Studio. It is a windows console application.
 
+The exercise:
+You need to build a simple scheduler application. It will read a config file (xml,
+json, etc) that has a list of tasks and each task a list of schedules. Schedules can be
+daily, weekly or monthly and can be repeated (for example daily and repeat every
+1 hour).
+1. Design an object model to represent the necessary entities
+2. Implement the scheduler to start each task at the requested time
+It's imperative that the task is started at the exact time it's requested. Also take
+into account cases when a task is still running when it should start again.
