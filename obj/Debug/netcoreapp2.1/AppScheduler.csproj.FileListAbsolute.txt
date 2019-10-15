@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AppScheduler\bin\Debug\netcoreapp2.1\AppScheduler.deps.json
+C:\Users\User\source\repos\AppScheduler\bin\Debug\netcoreapp2.1\AppScheduler.runtimeconfig.json
+C:\Users\User\source\repos\AppScheduler\bin\Debug\netcoreapp2.1\AppScheduler.runtimeconfig.dev.json
+C:\Users\User\source\repos\AppScheduler\bin\Debug\netcoreapp2.1\AppScheduler.dll
+C:\Users\User\source\repos\AppScheduler\obj\Debug\netcoreapp2.1\AppScheduler.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AppScheduler\obj\Debug\netcoreapp2.1\AppScheduler.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppScheduler\obj\Debug\netcoreapp2.1\AppScheduler.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppScheduler\obj\Debug\netcoreapp2.1\AppScheduler.AssemblyInfo.cs
+C:\Users\User\source\repos\AppScheduler\bin\Debug\netcoreapp2.1\AppScheduler.pdb
+C:\Users\User\source\repos\AppScheduler\obj\Debug\netcoreapp2.1\AppScheduler.dll
+C:\Users\User\source\repos\AppScheduler\obj\Debug\netcoreapp2.1\AppScheduler.pdb
